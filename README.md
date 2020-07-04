@@ -1,1 +1,2 @@
-# permutationTest1sample
+# 1-sample permutation test:
+permutationTest1sample
